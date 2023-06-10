@@ -4,9 +4,9 @@
 **↓↓↓ ÜCRETLİ ALT YAPI VEYA SUNUCUYA ÖZEL BOT İÇİN ↓↓↓**
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752942906322583712?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752942906322583712) 
 # KURULUM 
-            **CONFİG DOSYASINI DOLDUR**
-            **npm install YAZ MODÜLLERİ KUR**
-            **node ayven.js YAZARAK BOTU BAŞLAT **
+            CONFİG DOSYASINI DOLDUR
+            npm install YAZ MODÜLLERİ KUR
+            node ayven.js YAZARAK BOTU BAŞLAT
 #            
 #           
 # YARDIM VEYA HATA İÇİN 
