@@ -1,13 +1,8 @@
 # v14 TAGSIZ REGİSTER
 **Discorda yeni gelen güncellemeden sonra tagsız register bot starınızı eksik etmeyin benim diye bi yerde paylaşmayın minik götünüzü ısırırım.**
-
-
-
-
+<br> </br>
 **50 stara public için moderasyon bot gelir**
-
-
-
+<br> </br>
 **↓↓↓ ÜCRETLİ ALT YAPI VEYA SUNUCUYA ÖZEL BOT İÇİN ↓↓↓**
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752942906322583712?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752942906322583712) 
 # KURULUM 
