@@ -85,22 +85,7 @@ client.on("guildMemberAdd", async member => {
 const kanal = (config.hgkanal)
 client.on("guildMemberAdd", member => {
   require("moment-duration-format")
-    var üyesayısı = member.guild.members.cache.size.toString().replace(/ /g, "    ")
-    var üs = üyesayısı.match(/([0-9])/g)
-    üyesayısı = üyesayısı.replace(/([a-zA-Z])/g, "bilinmiyor").toLowerCase()
-    if(üs) {
-      üyesayısı = üyesayısı.replace(/([0-9])/g, d => {
-        return {
-          '0': `0`,//emoji koy istersen
-          '1': `1`,
-          '2': `2`,
-          '3': `3`,
-          '4': `4`,
-          '5': `5`,
-          '6': `6`,
-          '7': `7`,
-          '8': `8`,
-          '9': `9`}[d];})}
+   
   const kanal = member.guild.channels.cache.find(r => r.id === (config.hgkanal)); 
   
   let user = client.users.cache.get(member.id);
