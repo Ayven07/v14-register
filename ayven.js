@@ -61,7 +61,7 @@ client.on("guildMemberAdd", member => {
    x = x.replace("birkaç saniye önce", " ")
    if(!x.includes("önce") || x.includes("sonra") ||x == " ") {
   const kytsz = member.guild.roles.cache.find(r => r.id === ayarlar.kayıtsız)
-   var rol = member.guild.roles.cache.get(ayarlar.süpheli) // ŞÜPHELİ HESAP ROLÜNÜN İDSİNİ GİRİN
+   var rol = member.guild.roles.cache.get(ayarlar.süpheli) 
    var kayıtsız = member.guild.roles.cache.get(kytsz) 
    member.roles.add(rol)
    member.roles.remove(kytsz)
